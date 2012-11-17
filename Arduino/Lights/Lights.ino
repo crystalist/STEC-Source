@@ -1,3 +1,5 @@
+
+// the led is connected to pin 9 and ground
 int led = 9;
 
 void setup() {
