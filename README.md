@@ -1,3 +1,4 @@
 STEC-Source
 
-Code from STEC projects
+Code from STEC 4500 projects
+
